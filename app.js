@@ -26,7 +26,7 @@ app.get('/', function (req, res) {
     '/greeting/yourname <br>' +
     '/yo/Dr.Rogers <br>' +
     '/fortune <br>' +
-    '/Link for the tutorials point <a href="https://www.javatpoint.com/">https://www.javatpoint.com/</a>'
+    '/Link for the tutorials point <a href="https://www.javatpoint.com/">https://www.javatpoint.com/</a><br><br>'+
     '/fancy/?first=Praneeth&last=Kalluri <br>' +
     '<br> <br>' +
     'Fork the source code from <a href="https://github.com/praneeth323/node-express-app">https://github.com/praneeth323/node-express-app</a>'
